@@ -11,7 +11,7 @@ export const UI = () => {
           <p className="">Best sea food in the world 🎣</p>
         </div>
       </section>
-      <section className="h-screen w-screen flex items-center p-8 lg:p-20 select-none">
+      <section className="h-screen w-screen flex items-center p-8 lg:p-20 select-none max-w-screen-xl mx-auto">
         <div>
           <h2 className="text-2xl font-bold font-serif">Le Chef</h2>
           <h3 className="text-5xl font-bold font-serif">Broswick Chichaigne</h3>
@@ -25,7 +25,7 @@ export const UI = () => {
           </p>
         </div>
       </section>
-      <section className="h-screen w-screen flex flex-col items-center text-center p-8 lg:p-20 select-none">
+      <section className="h-screen w-screen flex flex-col items-center text-center p-8 lg:p-20 select-none  max-w-screen-xl mx-auto">
         <div>
           <h2 className="text-2xl font-bold font-serif">Le Menu</h2>
           <p className="mt-2">
