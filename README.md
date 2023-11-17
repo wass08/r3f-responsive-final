@@ -1,10 +1,8 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
-
-```
-yarn
-yarn dev
-```
+# r3f-responsive-final
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![responsive-thumbnail](https://github.com/wass08/r3f-responsive-final/assets/6551176/9a9a9095-252f-4b08-9578-c01d9225cfa2)
+
+[Video tutorial](https://youtu.be/lE16LkzA6fc)
+
+[Starter pack](https://github.com/wass08/r3f-responsive-starter/)
